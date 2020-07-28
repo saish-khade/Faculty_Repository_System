@@ -9,7 +9,7 @@ check_login();
 <html>
    <head>
       <meta charset="utf-8">  
-      <title>FDP</title>
+      <title>Publications</title>
       <link href="style2.css" rel="stylesheet" type="text/css">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="https://www.w3schools.com/lib/w3.css" rel="stylesheet">
